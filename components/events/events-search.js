@@ -34,8 +34,8 @@ const EventsSearch = props => {
         <div className={classes.control}>
           <label htmlFor="month">Year</label>
           <select name="month" id="month" ref={monthInputRef}>
-            <option value="1">January</option>
-            <option value="2">February</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
           </select>
         </div>
       </div>
